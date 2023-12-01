@@ -1,0 +1,51 @@
+»»»» Texto de la pagina web «««««
+
+Informacion de interes:
+ÚLTIMOS DÍAS DE CALICOMIX EN LA BIBLIOTECA DEPARTAMENTAL
+En su trigésima edición, el colectivo de artistas de Calicomix ha enriquecido la comunidad con más de 100 ilustraciones que abordan diversas temáticas, como la fisionomía, el pacifismo y la historia.
+
+
+Libro 1
+
+Opinion1: 
+Es un increible libro de autoayuda. Nunca me ha gustado este tipo de libros porque siento que inflan las soluciones a los problemas, y es más lo que pretenden vender que lo que realmente se logra siguiendo indicaciones.
+
+Opinion2:
+Una lectura fundamental para dar los primeros pasos hacia un cambio en nuestro estilo de vida
+
+Opinion3:
+A lo largo de mi vida había escuchado a multiples personas decir, «Dime un libro que te haya cambiado la vida» y la verdad que nunca había entendido la oración ya que no entendía como un libro podía cambiar una vida.
+
+Opinion4:
+Sin duda alguna un libro que cambió mi perspectiva de las acciones que realizo en mi vida cotidiana, te cambia el concepto de la simple palabra "hábito".
+
+Opinion5:
+Impresionante. Imprescindible. 
+Este libro a cambiado mi vida, literalmente.
+He leído muchos libros sobre hábitos pero este es IMPRESIONANTE. 
+
+Opinion6:
+Me está ayudando tanto que me da miedo de todo lo que uno puede progresar con este grandioso libro
+
+Libro 2
+
+Opinion1:
+La información es poder y esta mujer nos da un poder increíble. Además, explica todo de una manera tan sencilla que es súper fácil seguir la lectura. 
+
+Opinion2:
+Desde la primer vez que escuché la voz de esta mujer me transmitió muchas cosas. Una de ellas fue paz! 
+
+Opinion3:
+Me gusto mucho el libro, es de fácil lectura a pesar de que ocupa terminos más técnicos, sin embargo continúe la lectura y de nuevo se volvió muy fácil de leer.
+
+Opinion4:
+Un libro que no puedes leer solo una vez, Tienes que tener un lapiz y papel para anotar cada maravilla y guía que este ensayo nos plasma.
+
+Opinion5:
+Wao buena redacción y un punto bastante importante llegar al lector con profundidad yo le doy un 10 excelente.
+
+Opinion6:
+Fantástico libro para entender las emociones, los pensamientos, qué nos pasa a nivel fisiológico cuando tenemos estrés, ansiedad, depresión.
+
+background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
